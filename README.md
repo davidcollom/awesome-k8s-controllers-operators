@@ -31,7 +31,7 @@
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) — ⭐ 1,393 · Apache-2.0 — An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) — ⭐ 2,713 · Apache-2.0 — Event-driven Automation Framework for Kubernetes
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) — ⭐ 769 · MIT — This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) — ⭐ 9,331 · Apache-2.0 — A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) — ⭐ 9,332 · Apache-2.0 — A Kubernetes controller and tool for one-way encrypted Secrets
 - [keikoproj/upgrade-manager](https://github.com/keikoproj/upgrade-manager) — ⭐ 137 · Apache-2.0 — Reliable, extensible rolling-upgrades of Autoscaling groups in Kubernetes
 - [yahoo/k8s-namespace-guard](https://github.com/yahoo/k8s-namespace-guard) — ⭐ 36 — K8s - Admission controller for guarding namespace
 - [alexellis/registry-creds](https://github.com/alexellis/registry-creds) — ⭐ 349 · MIT — Replicate Kubernetes ImagePullSecrets to all namespaces
@@ -45,7 +45,7 @@
 - [monzo/egress-operator](https://github.com/monzo/egress-operator) — ⭐ 261 · MIT — A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) — ⭐ 7,965 · Apache-2.0 — A Chaos Engineering Platform for Kubernetes.
 - [stakater/Reloader](https://github.com/stakater/Reloader) — ⭐ 10,548 · Apache-2.0 — A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – \[✩Star\] if you're using it\!
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) — ⭐ 14,148 · Apache-2.0 — Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) — ⭐ 14,149 · Apache-2.0 — Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) — ⭐ 17,082 · Apache-2.0 — Workflow Engine for Kubernetes
 - [tumblr/k8s-sidecar-injector](https://github.com/tumblr/k8s-sidecar-injector) — ⭐ 351 · Apache-2.0 — Kubernetes sidecar injection service
 - [lwolf/kube-cleanup-operator](https://github.com/lwolf/kube-cleanup-operator) — ⭐ 524 · MIT — Kubernetes Operator to automatically delete completed Jobs and their Pods
@@ -53,7 +53,7 @@
 - [velero-io/velero](https://github.com/velero-io/velero) — ⭐ 10,366 · Apache-2.0 — Backup and migrate Kubernetes applications and their persistent volumes
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) — ⭐ 1,242 · Apache-2.0 — Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster\!
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) — ⭐ 9,145 · Apache-2.0 — Configure external DNS servers dynamically from Kubernetes resources
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) — ⭐ 24,547 · Apache-2.0 — Declarative Continuous Deployment for Kubernetes
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) — ⭐ 24,548 · Apache-2.0 — Declarative Continuous Deployment for Kubernetes
 - [metallb/metallb](https://github.com/metallb/metallb) — ⭐ 8,395 · Apache-2.0 — A network load-balancer implementation for Kubernetes using standard routing protocols
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) — ⭐ 5,089 · Apache-2.0 — Pomerium is an identity and context-aware access proxy.
 - [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) — ⭐ 1,379 · Apache-2.0 — A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
@@ -66,15 +66,15 @@
 - [kubedb/docs](https://github.com/kubedb/docs) — ⭐ 545 · Apache-2.0 — KubeDB Docs
 - [pravega/zookeeper-operator](https://github.com/pravega/zookeeper-operator) — ⭐ 383 · Apache-2.0 — Kubernetes Operator for Zookeeper
 - [openebs/openebs](https://github.com/openebs/openebs) — ⭐ 9,842 · Apache-2.0 — A popular \& widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) — ⭐ 9,094 · Apache-2.0 — A cloud-native Pipeline resource.
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) — ⭐ 9,095 · Apache-2.0 — A cloud-native Pipeline resource.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) — ⭐ 9,993 · Apache-2.0 — Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) — ⭐ 7,688 · Apache-2.0 — SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) — ⭐ 12,224 · Apache-2.0 — The Cloud Native Control Plane
+- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) — ⭐ 7,689 · Apache-2.0 — SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) — ⭐ 12,225 · Apache-2.0 — The Cloud Native Control Plane
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) — ⭐ 4,525 · Apache-2.0 — open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) — ⭐ 5,971 · Apache-2.0 — Apache Kafka® running on Kubernetes
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) — ⭐ 9,553 · Apache-2.0 — Cloud Native Runtime Security
 - [kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) — ⭐ 1,336 · Apache-2.0 — This driver allows Kubernetes to access NFS server on Linux node.
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) — ⭐ 9,546 · Apache-2.0 — The most popular Kubernetes Operator for PostgreSQL.
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) — ⭐ 9,547 · Apache-2.0 — The most popular Kubernetes Operator for PostgreSQL.
 - [box/kube-exec-controller](https://github.com/box/kube-exec-controller) — ⭐ 127 · Apache-2.0 — An admission controller service and kubectl plugin to handle container drift in K8s clusters
 - [ptagr/pod-reaper](https://github.com/ptagr/pod-reaper) — ⭐ 70 — A kubernetes operator that reaps pods that have reached their lifetime
 - [loft-sh/vcluster-sdk](https://github.com/loft-sh/vcluster-sdk) — ⭐ 35 · Apache-2.0 — Provides a toolset to create custom vcluster syncers
